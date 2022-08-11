@@ -10,7 +10,7 @@ Please refer to [https://laravel.com/docs/9.x/installation](https://laravel.com/
 
 - Please clone this repository, and perform the tasks below.
 - You can perform the tasks in any order.
-- Use VueJS v3, with a Vuex for the store - and use NPM to install packages.
+- Use VueJS v3's composition API, with a Vuex for the store - and use NPM to install packages.
 - Please make the layout look respectable (you can use CDNs to bring in 3rd party CSS frameworks if you like - Tailwind is a bonus).
 - Feel free to add any other niceties for the *user experience*.
 - ***Please commit your changes and send us a .zip copy (including the .git directory).***
